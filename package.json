@@ -1,0 +1,16 @@
+{
+  "name": "timehat",
+  "version": "0.0.1",
+  "repository": "https://github.com/stagas/timehat",
+  "description": "monotonic-timestamp + hat = sortable unique ids",
+  "keywords": ["timestamp", "unique", "uid", "sortable"],
+  "author": "stagas <gstagas@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "monotonic-timestamp": "~0.0.8",
+    "hat": "~0.0.3"
+  },
+  "devDependencies": {},
+  "engines": { "node": "*" }
+}
